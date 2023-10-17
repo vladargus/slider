@@ -1,3 +1,3 @@
 # slider
 
-![](https://github.com/vladargus/slider/blob/main/preview.gif)
+![preview.gif](https://github.com/vladargus/slider/blob/main/preview.gif)
